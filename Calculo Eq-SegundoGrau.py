@@ -15,10 +15,10 @@ try:
             print("Não há raízes reais!")
         elif delta == 0:
             raiz = -b / (2 * a)
-            print(f'Só tem uma raiz e ela vale: {raiz}')
+            print(f'Há apenas uma raiz e ela vale: {raiz}')
         else:
             raiz1 = (-b - delta ** 0.5) / (2 * a)
             raiz2 = (-b + delta ** 0.5) / (2 * a)
             print(f'Existem duas raízes, e elas valem: {raiz1} e {raiz2}')
 except ValueError:
-    print("Devem-se utilizar números!")
+    print("Deve-se utilizar números!")
