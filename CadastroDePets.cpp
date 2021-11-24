@@ -1,15 +1,3 @@
-/*
-Artur Henrique Pagno - 21013037
-Carlos Eduardo Fontes Camacho  - 21008649
-Cesar Augusto Camote Inocencio - 20018446
-Felipe de Moura Tayar - 201019634
-João Victor Moreira Vidal - 19291384
-Patrick Pimentel Corrêa Leite - 21007850
-
-Opcionais funcionando: 2 e 7.
-
-Valor do Projeto: 10 Pontos
-*/
 
 #include <iostream>
 #include <stdio.h>
