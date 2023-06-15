@@ -113,7 +113,6 @@ class GestorEmprestimos:
         usuario.devolver_livro(livro)
 
 
-# Exemplo de uso do código:
 # Criação de alguns livros
 livro1 = Livro("Python para Iniciantes", "John Smith", 2018)
 livro2 = Livro("Python Avançado", "Jane Doe", 2020)
